@@ -1,5 +1,5 @@
 # Internship at VK
 
-**Task on graphs**
+**Graph assignment**
 
 > Alyona Andryukhina
