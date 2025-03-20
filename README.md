@@ -1,5 +1,5 @@
 # Internship at VK
 
-**Graph assignment**
+> Graph assignment
 
-> Alyona Andryukhina
+**Alyona Andryukhina**
